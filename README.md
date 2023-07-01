@@ -4,7 +4,7 @@ Working on Machine Learning and Data Science projects using Python, Robotics and
 and have advanced experience with C++ Programming Language (OOP, Data Structures and Algorithms)
 I have also experienced much of Digital Design and Computer Archeticture Projects.
 
-Take a look on my projects, Enjoy :)
+**Take a look on my projects, Enjoy :)**
 
 <!---
 YousefTB/YousefTB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
