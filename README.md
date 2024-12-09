@@ -18,11 +18,23 @@ through years of hardwork and learning, I got speciality in the following areas:
 
 Feel free to explore my projects and see how I apply these skills in innovative ways!
 
+# 📈 **GitHub Stats**
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=youseftb&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youseftb&layout=compact&theme=radical)
+
 # 🤝 Let's Connect!
 
 If you’re interested in collaborating, learning more about my work, or discussing ideas, feel free to reach out:
 
-**Email**: yousef.elbaroudy02@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousef.elbaroudy02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-elbaroudy-758361251/)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Yousef_TB)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yousef_elbaroudy/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009265982753)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/user3541Tn/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/lover_avenger_9)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23022974.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yousefelbaroudy)
 
 # 🌟 Don't Forget to Star ⭐ the Repository that You Find It Useful!
 
