@@ -51,8 +51,12 @@ Feel free to explore my projects and see how I apply these skills in innovative 
 
 # 📈 **GitHub Stats**
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youseftb&theme=radical)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=youseftb&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youseftb&layout=compact&theme=radical)
+
 
 # 🤝 Let's Connect!
 
