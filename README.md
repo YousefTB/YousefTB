@@ -1,5 +1,7 @@
 # Welcome to My GitHub Profile! 🎉
 
+![Profile Views](https://komarev.com/ghpvc/?username=youseftb&color=brightgreen&style=flat-square)
+
 ### Hello! 👋 
 
 I'm Yousef Elbaroudy, currently a **Teaching Assistant at the Faculty of Computers and Artificial Intelligence, Benha University.** This repository showcases my work, projects, and contributions across various domains in **artificial intelligence** and **data-driven technologies**.
