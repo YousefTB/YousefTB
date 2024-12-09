@@ -20,13 +20,13 @@ Feel free to explore my projects and see how I apply these skills in innovative 
 
 # 🤝 Let's Connect!
 
-### If you’re interested in collaborating, learning more about my work, or discussing ideas, feel free to reach out:
+If you’re interested in collaborating, learning more about my work, or discussing ideas, feel free to reach out:
 
 **Email**: yousef.elbaroudy02@gmail.com
 
 # 🌟 Don't Forget to Star ⭐ the Repository that You Find It Useful!
 
-Thank you for visiting, and happy exploring! 🚀
+### Thank you for visiting, and happy exploring! 🚀
 
 <!---
 YousefTB/YousefTB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
