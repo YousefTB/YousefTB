@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🎉
 
-Hello! 👋 
+### Hello! 👋 
 
 I'm Yousef Elbaroudy, currently a **Teaching Assistant at the Faculty of Computers and Artificial Intelligence, Benha University.** This repository showcases my work, projects, and contributions across various domains in **artificial intelligence** and **data-driven technologies**.
 
@@ -20,7 +20,7 @@ Feel free to explore my projects and see how I apply these skills in innovative 
 
 # 🤝 Let's Connect!
 
-If you’re interested in collaborating, learning more about my work, or discussing ideas, feel free to reach out:
+### If you’re interested in collaborating, learning more about my work, or discussing ideas, feel free to reach out:
 
 **Email**: yousef.elbaroudy02@gmail.com
 
