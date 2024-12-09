@@ -1,6 +1,7 @@
-# Welcome to My GitHub Profile! 🎉
 
 ![Profile Views](https://komarev.com/ghpvc/?username=youseftb&color=brightgreen&style=flat-square)
+
+# Welcome to My GitHub Profile! 🎉
 
 ### Hello! 👋 
 
@@ -19,6 +20,59 @@ through years of hardwork and learning, I got speciality in the following areas:
 - *More and more !*
 
 Feel free to explore my projects and see how I apply these skills in innovative ways!
+
+# 🛠️ **Technologies & Tools**
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-%23EE4C2C.svg?style=for-the-badge&logo=prolog&logoColor=white)
+
+---
+
+### Machine Learning & Data Science
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%230040C0.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23C71585.svg?style=for-the-badge&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%230080FF.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
+
+---
+
+### Databases
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+### IoT & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### Development Tools
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+---
+
+### Hardware Description Language
+![Verilog](https://img.shields.io/badge/Verilog-%23013243.svg?style=for-the-badge&logo=verilog&logoColor=white)
 
 # 📈 **GitHub Stats**
 
